@@ -6,7 +6,7 @@ Timely delivery is crucial because it:
 - Quality Assurance: Ensures the final product meets the required standards.
 - Resource Management: Efficient use of resources.
 - Risk Management: Identifies and mitigates risks.
-- Stakeholder Satisfaction: Ensures that the needs and expectations of stakeholders are met.
+- Stakeholder Satisfaction: Ensures that the needs and expectations of stakeholders are met. 
   How Project Managers Can Ensure Deadlines Are Met
 Clear Project Planning:
 Define Scope and Objectives: Clearly define the project scope, objectives, and deliverables from the outset. Use techniques like Work Breakdown Structure (WBS) to break down tasks into manageable units.
